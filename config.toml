@@ -1,0 +1,29 @@
+baseURL = "https://spectare.nl/"
+languageCode = "en-us"
+title = "Spectare"
+disableKinds = ["sitemap", "RSS"]
+theme = "hugo-webslides"
+themesDir = "./themes"
+tags = ["slide", "presentation", "responsive", "landing page"]
+features = ["webslides.js", "pre-made template", "shortcodes"]
+
+[params]
+  author = "RCJacH"
+  homepage = "RCJacH.github.io"
+
+
+[params.webslides]
+  banner = false
+  slideshow = true
+  vertical = false
+  autoslide = false
+  changeOnClick = false
+  disableLoop = false
+  minWheelDelta = 40
+  disableNavigateOnScroll = false
+  scrollWait = 450
+  slideOffset = 50
+  hideIndex = false
+
+[blackfriday]
+extensionsmask = ["autoHeaderIds"]
