@@ -4,12 +4,12 @@ title = "Spectare"
 disableKinds = ["sitemap", "RSS"]
 theme = "hugo-webslides"
 themesDir = "./themes"
-tags = ["slide", "presentation", "responsive", "landing page"]
-features = ["webslides.js", "pre-made template", "shortcodes"]
+tags = [""]
+features = [""]
 
 [params]
-  author = "RCJacH"
-  homepage = "RCJacH.github.io"
+  author = "olger"
+  homepage = "spectare.nl"
 
 
 [params.webslides]
