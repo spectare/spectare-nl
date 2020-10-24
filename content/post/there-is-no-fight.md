@@ -12,7 +12,8 @@ Today a respected colleague called and we had a conversation on technology choic
 
 He asked me what my top 5 elements for selection would be.
 
-We ended up that a single question to answer should be enough: will the whole team take the responsibility to make this choice a success ?
+We ended up that a single question to answer should be enough.  
+Will the whole team take the responsibility to make this choice a success ?
 
 Sometimes the actual technology matters, most of the times, it matters more that ownership is at the right spot.
 
