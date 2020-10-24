@@ -2,6 +2,8 @@
 date: 2020-09-24T08:48:08+01:00
 description: "The battle between technology frameworks"
 featured_image: "/images/james-pond-HUiSySuofY0-unsplash.jpg"
+images:
+- /images/james-pond-HUiSySuofY0-unsplash.jpg
 tags: ["musings"]
 title: "There is no fight"
 ---

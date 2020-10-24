@@ -1,6 +1,8 @@
 ---
 title: "Spectare"
 featured_image: '/images/sight.jpg'
+images:
+- /images/sight.jpg
 description: "The digital world changes the way you work."
 ---
 As the world becomes a network of people delivering digital solutions we need to change our approach to work.

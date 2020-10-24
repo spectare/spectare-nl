@@ -2,6 +2,8 @@
 date: 2018-04-09T10:58:08-04:00
 description: "stop planning and start delivering"
 featured_image: "/images/cupcake-media-JfOT-WwO1Ig-unsplash-2.jpg"
+images:
+- /images/cupcake-media-JfOT-WwO1Ig-unsplash-2.jpg
 tags: ["process"]
 title: "Flow based development"
 ---
