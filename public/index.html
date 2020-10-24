@@ -1,26 +1,25 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}" prefix="og: http://ogp.me/ns#">
+<html lang="en-us" prefix="og: http://ogp.me/ns#">
   <head>
+	<meta name="generator" content="Hugo 0.76.5" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- SEO -->
-    <title>{{ or .Page.Title .Site.Title }}</title>
-    {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-    {{ with .Site.Params.Description }}<meta name="description" content="{{ . }}">{{ end }}
+    
+    <title>Spectare</title>
+    <meta name="author" content="olger">
+    
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-    <!-- Google Fonts -->
+    
     <link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
-    <!-- CSS Base -->
+    
     <link rel="stylesheet" type='text/css' media='all' href="css/webslides.css">
     <link rel="stylesheet" type="text/css" media="all" href="css/svg-icons.css">
-    {{ range .Site.Params.customcss }}
-    <link rel="stylesheet" href="{{ . | absURL }}">
-    {{ end }}
+    
 
-    <!-- FAVICONS -->
+    
     <link rel="shortcut icon" sizes="16x16" href="/img/favicons/favicon.png">
     <link rel="shortcut icon" sizes="32x32" href="/img/favicons/favicon-32.png">
     <link rel="apple-touch-icon icon" sizes="76x76" href="/img/favicons/favicon-76.png">
@@ -29,20 +28,35 @@
     <link rel="apple-touch-icon icon" sizes="180x180" href="/img/favicons/favicon-180.png">
     <link rel="apple-touch-icon icon" sizes="192x192" href="/img/favicons/favicon-192.png">
 
-    <!-- Android -->
+    
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="theme-color" content="#333333">
-    {{ partial "head.html" . }}
+    
   </head>
   <body>
-    {{ partial "banner.html" . }}
+    
     <main role="main">
-      <article{{- if .Site.Params.Webslides.slideshow }} id="webslides"{{- if .Site.Params.Webslides.vertical }} class="vertical"{{- end -}}{{- end -}}>
-        {{ block "main" . -}}{{- end }}
+      <article id="webslides">
+        
+
+
+  
+
+      
+
+      <section id="slide1">
+        <div><!-- raw HTML omitted -->
+<h1 id="spectare">Spectare</h1>
+ </div>
+      </section> 
+
       </article>
     </main>
 
-    {{ partial "footer.html" . }}
-    {{ partial "webslides.html" . }}
+    
+    <script src="js/webslides.min.js"></script>
+<script>window.ws = new WebSlides({minWheelDelta: 40 ,scrollWait: 450 ,slideOffset: 50 ,});</script>
+<script defer src="js/svg-icons.js"></script>
+
   </body>
 </html>
