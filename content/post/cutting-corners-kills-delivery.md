@@ -1,5 +1,5 @@
 ---
-date: 2020-25-10T10:00:00-04:00
+date: 2020-10-25T10:00:00-04:00
 description: "Cutting corners adds to complexity and the solution becomes convoluted"
 featured_image: "/images/tim-mossholder-FwzhysPCQZc-unsplash.jpg"
 images:
