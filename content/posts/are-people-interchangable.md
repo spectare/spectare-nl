@@ -8,7 +8,7 @@ tags: ["people"]
 title: "Please don't assume teammembers are interchangable"
 ---
 
-The organisation likes to re-assign one of their employees to help the team. 
+### The organisation likes to re-assign one of their employees to help the team. 
 
 1) Re-assignment assumes that employees are readily available. Consulantancy companies tend to have a bench for the people to be re-assigned to a customer project, for normal operational organisations this is hardly the case. 
 2) It is safe to assume that you need to hire someone. Now the question is: If you can choose: Would you hire for technology compliancy or for matching domain knowledgde?
@@ -18,5 +18,18 @@ The organisation likes to re-assign one of their employees to help the team.
 Depending on your situation you may choose for 3 or 4 and still have no reason to swap people around to other teams. 
 
 Personally I believe willingness to learn is key whatever the domain or technology is.
+
+### Someone appears to be readily available
+
+Really? Thats quite a surpise - but hey - sometimes you may be lucky. 
+
+When you hire based on the previous part, your team of people consists of people willing to learn whatever the domain or technology is. 
+Technology knowledge is quite important but especially in existing teams key knowledge on the product at hand is already established. 
+Domain knowledge on the level of detail the team internalised needs adoption by the new member. The new team member needs to become part of the shared understanding on the problem at hand.
+
+It is a responsibilty of the team to enable a new member becoming up to par in a timely manner as there is not much a new member can do. 
+Note that preparation up front is still a possibility - when the team enabled such a route as part of their introduction of new members. 
+
+
 
 Photo by [Pascal Swier](https://unsplash.com/@pascalswier16?utm_source=unsplash) on Unsplash
