@@ -32,6 +32,8 @@ Note that preparation up front is still a possibility - when the team enabled su
 
 Standardisation on technology may be seen as a manner to enable interchangeability between people, I hope that this article clearly shows that most of the times people are not moved between teams and secondly when you do move people there are other things to solve.
 
+Next to that, standardisation enables a culture of compliance. The drawbacks of this culture within an environment that must value learning are tremenduous and will prevent you towards a system that enables learning.
+
 Sure, when you hire someone who is willing to learn, it certainly helps when the domain / technology is already part of past experience. But there may be other elements more important when you hire/add someone to a team, like personality, learning goals and background as moving towards a more diverse world in IT will certainly help a team to improve.
 
 Photo by [Pascal Swier](https://unsplash.com/@pascalswier16?utm_source=unsplash) on Unsplash
