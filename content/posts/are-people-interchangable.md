@@ -5,7 +5,7 @@ featured_image: "/images/pascal-swier-7de474KZIbs-unsplash.jpg"
 images:
 - /images/pascal-swier-7de474KZIbs-unsplash.jpg
 tags: ["people"]
-title: "Please don't assume teammembers are interchangable"
+title: "Please don't assume teammembers are interchangable by standardisation"
 ---
 
 ### The organisation likes to re-assign one of their employees to help the team. 
@@ -30,6 +30,7 @@ Domain knowledge on the level of detail the team internalised needs adoption by 
 It is a responsibilty of the team to enable a new member becoming up to par in a timely manner as there is not much a new member can do. 
 Note that preparation up front is still a possibility - when the team enabled such a route as part of their introduction of new members. 
 
+Standardisation on technology may be seen as a manner to enable interchangeability between people, I hope that this article clearly shows that most of the times people are not moved between teams and secondly when you do move people there are other things to solve.
 
 
 Photo by [Pascal Swier](https://unsplash.com/@pascalswier16?utm_source=unsplash) on Unsplash
