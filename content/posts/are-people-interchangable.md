@@ -27,7 +27,7 @@ When you hire based on the previous part, your team of people consists of people
 Technology knowledge is quite important but especially in existing teams key knowledge on the product at hand is already established. 
 Domain knowledge on the level of detail the team internalised needs adoption by the new member. The new team member needs to become part of the shared understanding on the problem at hand.
 
-It is a responsibilty of the team to enable a new member becoming up to par in a timely manner as there is not much a new member can do. 
+It is a responsibilty of the team to enable a new member becoming up to par in a timely manner as there is not much a new member can prepeare before they know re-assignment will occur. 
 Note that preparation up front is still a possibility - when the team enabled such a route as part of their introduction of new members. 
 
 Standardisation on technology may be seen as a manner to enable interchangeability between people, I hope that this article clearly shows that most of the times people are not moved between teams and secondly when you do move people there are other things to solve.
