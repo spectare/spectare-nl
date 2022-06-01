@@ -31,8 +31,8 @@ When the rules of the game are clear, use these rules to create your process and
 
 During kick off, start with the rules of the game. Answering the next questions will help you to get started:
 
- * Is everyone allowed to touch everything ? Write down the things that you expect people to do (accountabilities)
- * What is everything ? In what way do you like outcomes to be created ? (process)
+ * Is everyone allowed to touch everything ? Write down the things that you expect people to do (roles & accountabilities)
+ * In what way do you like outcomes to be created and operated ? (process)
  * What are your starting points for decisions ? (For content, process and operations)
  * In what way do you want to keep track of the work done ? (in git, code is the truth or in Jira - everything is a ticket)
  * In what way do you handle progress ? Do you choose for scheduled meetings (like planning, retrospective and demo for instance) or do you prefer other means of communication ? (like automated messages via slack when functionality is pulled - or is available)
@@ -41,6 +41,11 @@ During kick off, start with the rules of the game. Answering the next questions 
 
  Feel free to answer some of these elements with 'Scrum' or 'Kanban' but do explain what you will do according to the mentioned words. Both types of process are applied in many different ways. 
 
+ And one small note on 'progress'. Progress is part of all three parts, its about continuous improvement and the way this is shared inside and outside the team.
+
+ ## Outcomes for the kick off
+
+Clarity for the team on the way of working and a way to iteratively improve are the main outcomes. 
 
 ## Process, Content and Operations
 
