@@ -2,6 +2,18 @@
 publish = "public"
 command = "hugo --gc --minify"
 
+[[redirects]]
+from = "/posts/*"
+to = "https://digilectron.com/posts/:splat"
+
+[[redirects]]
+from = "/dayscore/*"
+to = "https://digilectron.com/dayscore/:splat"
+
+[[redirects]]
+from = "/contact/*"
+to = "https://digilectron.com/contact/:splat"
+
 [context.production.environment]
 HUGO_VERSION = "0.135.0"
 HUGO_ENV = "production"
