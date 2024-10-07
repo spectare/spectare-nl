@@ -13,5 +13,41 @@
                 hreflang="de"
                 href="http://localhost:1313/de/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/de/license/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/license/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/license/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/services/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/services/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/legal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/legal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/legal/"
+                />
   </url>
 </urlset>
