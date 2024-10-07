@@ -1,7 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>musings on Spectare</title><link>https://spectare.nl/tags/musings/</link><description>Recent content in musings on Spectare</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 10:00:00 +0200</lastBuildDate><atom:link href="https://spectare.nl/tags/musings/index.xml" rel="self" type="application/rss+xml"/><item><title>Cutting corners kills your delivery pace</title><link>https://spectare.nl/posts/cutting-corners-kills-delivery/</link><pubDate>Sun, 25 Oct 2020 10:00:00 +0200</pubDate><guid>https://spectare.nl/posts/cutting-corners-kills-delivery/</guid><description>Everyone in software development knows the words: &amp;lsquo;just add this small thing and&amp;hellip;&amp;rsquo;.
-Mostly the people requesting the addition don&amp;rsquo;t have to live with the consequences. These consequences double each and every time you add another option to an existing structure.
-Every option you add, adds to the number of combinations your software must be capable to handle and combinations double according to the formula 2^n. So when you say yes for the 7th time.</description></item><item><title>There is no fight</title><link>https://spectare.nl/posts/there-is-no-fight/</link><pubDate>Thu, 24 Sep 2020 08:48:08 +0100</pubDate><guid>https://spectare.nl/posts/there-is-no-fight/</guid><description>Today a respected colleague called and we had a conversation on technology choices. A team choose the React framework over the Angular framework and that caused a stir at the company.
-He asked me what my top 5 elements for selection would be.
-We ended up that a single question to answer should be enough.
-Will the whole team take the responsibility to make this choice a success ?
-Sometimes the actual technology matters, most of the times, it matters more that ownership is at the right spot.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musings on Spectare</title>
+    <link>http://localhost:1313/tags/musings/</link>
+    <description>Recent content in Musings on Spectare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Oct 2020 10:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/musings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cutting corners kills your delivery pace</title>
+      <link>http://localhost:1313/posts/cutting-corners-kills-delivery/</link>
+      <pubDate>Sun, 25 Oct 2020 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cutting-corners-kills-delivery/</guid>
+      <description>&lt;p&gt;Everyone in software development knows the words: &amp;lsquo;just add this small thing and&amp;hellip;&amp;rsquo;.&lt;br&gt;&#xA;Mostly the people requesting the addition don&amp;rsquo;t have to live with the consequences.&#xA;These consequences double each and every time you add another option to an existing structure.&lt;/p&gt;&#xA;&lt;p&gt;Every option you add, adds to the number of combinations your software must be capable to handle and combinations double according to the formula 2^n. So when you say yes for the 7th time. you go from 64 (2^6) to 128 (2^7) &lt;a href=&#34;https://en.wikipedia.org/wiki/Combination#Number_of_k-combinations_for_all_k&#34;&gt;combinations that need to work and tested&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>There is no fight</title>
+      <link>http://localhost:1313/posts/there-is-no-fight/</link>
+      <pubDate>Thu, 24 Sep 2020 08:48:08 +0100</pubDate>
+      <guid>http://localhost:1313/posts/there-is-no-fight/</guid>
+      <description>&lt;p&gt;Today a respected colleague called and we had a conversation on technology choices. A team choose the React framework over the Angular framework and that caused a stir at the company.&lt;/p&gt;&#xA;&lt;p&gt;He asked me what my top 5 elements for selection would be.&lt;/p&gt;&#xA;&lt;p&gt;We ended up that a single question to answer should be enough.&lt;br&gt;&#xA;Will the whole team take the responsibility to make this choice a success ?&lt;/p&gt;&#xA;&lt;p&gt;Sometimes the actual technology matters, most of the times, it matters more that ownership is at the right spot.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

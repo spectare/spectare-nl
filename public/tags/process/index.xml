@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>process on Spectare</title><link>https://spectare.nl/tags/process/</link><description>Recent content in process on Spectare</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 10:00:00 +0200</lastBuildDate><atom:link href="https://spectare.nl/tags/process/index.xml" rel="self" type="application/rss+xml"/><item><title>Cutting corners kills your delivery pace</title><link>https://spectare.nl/posts/cutting-corners-kills-delivery/</link><pubDate>Sun, 25 Oct 2020 10:00:00 +0200</pubDate><guid>https://spectare.nl/posts/cutting-corners-kills-delivery/</guid><description>Everyone in software development knows the words: &amp;lsquo;just add this small thing and&amp;hellip;&amp;rsquo;.
-Mostly the people requesting the addition don&amp;rsquo;t have to live with the consequences. These consequences double each and every time you add another option to an existing structure.
-Every option you add, adds to the number of combinations your software must be capable to handle and combinations double according to the formula 2^n. So when you say yes for the 7th time.</description></item><item><title>Flow based development</title><link>https://spectare.nl/posts/flow-based-development-intro/</link><pubDate>Mon, 09 Apr 2018 10:58:08 -0400</pubDate><guid>https://spectare.nl/posts/flow-based-development-intro/</guid><description>A little history: Scrum, KanBan and DevOps Over the past 15 years, the IT industry has taken to working ‘agile’, often by introducing Scrum. Scrum is development process, which creates a cadence of sprints that last a few weeks each.
-User stories are used to determine the work to be done. These user stories are planned, committed, built and delivered. There is also room to evaluate the work, the object being to improve together.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Process on Spectare</title>
+    <link>http://localhost:1313/tags/process/</link>
+    <description>Recent content in Process on Spectare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 May 2022 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/process/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Team kick off for agile product development</title>
+      <link>http://localhost:1313/posts/team-kickoff/</link>
+      <pubDate>Mon, 30 May 2022 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/team-kickoff/</guid>
+      <description>&lt;p&gt;The last months have been busy with (re)starting teams somehow.&#xA;This is a small note to self in order to keep a record of aspects that need to be addressed.&lt;/p&gt;&#xA;&lt;p&gt;The kick off is the first step of a continuous mechanism to learn and deliver the best possible outcome for your audience.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ensure-your-kick-off-allows-to-change-everything-including-the-process&#34;&gt;Ensure your kick off allows to change everything, including the process.&lt;/h2&gt;&#xA;&lt;p&gt;Process, Content and Operations need to be part of the kick off.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cutting corners kills your delivery pace</title>
+      <link>http://localhost:1313/posts/cutting-corners-kills-delivery/</link>
+      <pubDate>Sun, 25 Oct 2020 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cutting-corners-kills-delivery/</guid>
+      <description>&lt;p&gt;Everyone in software development knows the words: &amp;lsquo;just add this small thing and&amp;hellip;&amp;rsquo;.&lt;br&gt;&#xA;Mostly the people requesting the addition don&amp;rsquo;t have to live with the consequences.&#xA;These consequences double each and every time you add another option to an existing structure.&lt;/p&gt;&#xA;&lt;p&gt;Every option you add, adds to the number of combinations your software must be capable to handle and combinations double according to the formula 2^n. So when you say yes for the 7th time. you go from 64 (2^6) to 128 (2^7) &lt;a href=&#34;https://en.wikipedia.org/wiki/Combination#Number_of_k-combinations_for_all_k&#34;&gt;combinations that need to work and tested&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flow based development</title>
+      <link>http://localhost:1313/posts/flow-based-development-intro/</link>
+      <pubDate>Mon, 09 Apr 2018 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/flow-based-development-intro/</guid>
+      <description>&lt;h2 id=&#34;a-little-history-scrum-kanban-and-devops&#34;&gt;A little history: Scrum, KanBan and DevOps&lt;/h2&gt;&#xA;&lt;p&gt;Over the past 15 years, the IT industry has taken to working ‘agile’, often by introducing Scrum.  Scrum is development process, which creates a cadence of sprints that last a few weeks each.&lt;/p&gt;&#xA;&lt;p&gt;User stories are used to determine the work to be done. These user stories are planned, committed, built and delivered. There is also room to evaluate the work, the object being to improve together.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

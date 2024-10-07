@@ -1,6 +1,6 @@
 baseURL = "https://spectare.nl/"
 languageCode = "en-us"
-theme = "github.com/theNewDynamic/gohugo-theme-ananke"
+theme = "ananke"
 title = "Spectare"
 
 DefaultContentLanguage = "en" 
