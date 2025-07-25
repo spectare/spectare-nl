@@ -41,7 +41,7 @@ enableEmoji = true
     title = "Spectare"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = ""
+    description = "Enjoy Life!"
 
     # Show a menu of languages available
     language_menu = false
